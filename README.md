@@ -1,5 +1,3 @@
-"# Text-Mining
-
 A comprehensive collection of Natural Language Processing (NLP) and Text Mining workshops demonstrating various techniques for text analysis, translation assistance, plagiarism detection, and document classification.
 
 ## 📖 Description
